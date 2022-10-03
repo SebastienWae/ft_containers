@@ -1,0 +1,4 @@
+BasedOnStyle: LLVM
+Standard: Cpp03
+ColumnLimit: '80'
+IndentWidth: '2'

@@ -1,0 +1,4 @@
+FormatStyle: LLVM
+Checks: >
+  clang-analyzer-*,
+WarningsAsErrors: "*"
