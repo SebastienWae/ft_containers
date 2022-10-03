@@ -1,0 +1,14 @@
+compile_commands.json
+.cache/
+out/
+*.dSYM
+
+valgrind.log
+pvs_report/
+PVS-Studio.log
+cc_report/
+
+ft_container
+ft_container_asan
+std_container
+std_container_asan
